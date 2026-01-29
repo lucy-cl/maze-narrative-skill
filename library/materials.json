@@ -1,0 +1,39 @@
+{
+  "lock_memes": [
+    {"id": "lm_001", "content": "那把撑过的伞", "category": "item" },
+    {"id": "lm_002", "content": "被还回来的橡皮", "category": "item" },
+    {"id": "lm_003", "content": "图书馆的邻座", "category": "place" },
+    {"id": "lm_004", "content": "同时伸手拿同一本书", "category": "action" },
+    {"id": "lm_005", "content": "耳机里分享的歌", "category": "item" },
+    {"id": "lm_006", "content": "雨后的彩虹", "category": "scene" },
+    {"id": "lm_007", "content": "便利店的重逢", "category": "place" },
+    {"id": "lm_008", "content": "错过的末班车", "category": "action" },
+    {"id": "lm_009", "content": "借出的充电宝", "category": "item" },
+    {"id": "lm_010", "content": "拍肩打招呼的瞬间", "category": "action" }
+  ],
+  "trigger_templates": {
+    "cool": [
+      "所有人这才意识到：{protagonist}从一开始就知道",
+      "当{antagonist}还在得意时，胜负已分",
+      "真正的底牌，从来不是{protagonist}展示的那些"
+    ],
+    "sweet": [
+      "原来那个眼神，早就说明了一切",
+      "所有的巧合，都是一个人的蓄谋已久",
+      "这一刻，她终于读懂了那些年的沉默"
+    ],
+    "regret": {
+      "last_words": [
+        "对不起，我来晚了",
+        "如果当初...算了，没有如果",
+        "这次，换我等你"
+      ],
+      "scenes": [
+        "雨中对峙",
+        "医院走廊",
+        "毕业典礼",
+        "搬家前的最后一面"
+      ]
+    }
+  }
+}
