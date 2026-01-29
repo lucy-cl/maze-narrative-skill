@@ -1,6 +1,7 @@
 ---
 name: maze-engine
 description: "Comprehensive autonomous fiction generation engine based on Trap Theory. Use this skill when the user asks to: (1) Generate/Write a short story with specific themes (Revenge, Showbiz, Esports), (2) Audit/Review a story draft for quality and immersion, (3) Create a story batch. CAPABILITIES: Managing story structure, enforcing '90% Trap' logic, and inserting lexicon-enhanced descriptions. NOT FOR: General creative writing assistance, non-fiction summarization, or simple copy-editing."
+category: writing
 version: 1.0.0
 ---
 
